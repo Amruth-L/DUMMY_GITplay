@@ -14,7 +14,7 @@ const SearchFilter = () => {
         name.toLowerCase().startsWith(searchTerm.toLowerCase())
     );
     return (
-        <div className='flex flex-col items-center min-h-screen bg-slate-50  p-10 font-sans'>
+        <div className='flex flex-col items-center min-h-screen bg-red-50  p-10 font-sans'>
             <div className='w-full max-w-md'>
                 <h2 className='text-5xl text-scale-800 mb-6 text-center font-extrabold'> SEARCH ENGINE </h2>
 
