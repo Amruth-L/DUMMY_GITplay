@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 const Names_Data = [
-    "Aarav", "Advait", "Amruth", "Ananya", "Arjun", "Bhavya", "Bhoomi", "Chaitanya", "Devansh", "Diya", "Esha",
-    "Gautam", "Hitesh", "Ishaan", "Jhanvi", "Kabir", "Kavya", "Laksh", "Meera", "Nakul", "Navya",
-    "Omkar", "Parth", "Prisha", "Prajwal", "Rohan", "Riya", "Sahil", "Sana", "Tanmay", "Trisha", "Utkarsh",
+    "Aarav", "Advait", "Amruth", "Apoorva", "Arjun", "Bhavya", "Bhoomi","Bhoomika", "Chaitanya", "Devansh", "Diya", "Esha",
+    "Gautam", "Hitesh", "Ishaan", "Jhanvi", "Kabir", "Kavya","Kushal", "Laksh", "Meera", "Nakul", "Navya","Namitha"
+    ,"Omkar", "Parth", "Prisha", "Prajwal", "Rohan", "Riya", "Sahil", "Sana", "Tanmay", "Trisha", "Utkarsh",
     "Vaishnavi", "Vihaan", "Vanya", "Yash", "Zoya", "Aditya", "Ishita", "Karan", "Kiara", "Madhav",
     "Nandini", "Pranav", "Radhika", "Siddharth", "Tara", "Varun", "Vedika", "Vivaan", "Yuvraj", "Ansh"
 ];
